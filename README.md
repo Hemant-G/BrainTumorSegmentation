@@ -26,4 +26,5 @@ The model follows an **Encoder-Decoder (U-Net style)** structure with a powerful
 
 ## Project Contents
 
-- **BrainTumorSegmentation.ipynb** — Complete implementation, training, and evaluation code
+- **BrainTumorSegmentation.ipynb** - Complete implementation, training, and evaluation code.
+- **requirements.txt** - All Python dependencies. Install with `pip install -r requirements.txt`.
